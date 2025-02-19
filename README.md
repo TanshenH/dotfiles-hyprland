@@ -28,12 +28,12 @@ This is JakooLit's Hyprland with some minor changes made for my personal use.
 **⚠️ Please read the documentation first before installing**
   ***<https://github.com/JakooLit/Arch-Hyprland.git>***
 
-### ⚠️ WARNING THIS SCRIPT IS FOR ARCH-DISTROS ONLY 
+### ⚠️ WARNING THIS SCRIPT IS FOR ARCH-DISTROS ONLY
 
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/tensei-slime/Hypr-Arch/git ~/Hypr-Arch
+git --depth=1 clone https://github.com/tensei-slime/Hypr-Arch/git ~/Hypr-Arch
 cd Hypr-Arch 
 ```
 
