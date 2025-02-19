@@ -33,7 +33,7 @@ This is JakooLit's Hyprland with some minor changes made for my personal use.
 1. Clone this repo:
 
 ```bash
-git --depth=1 clone https://github.com/tensei-slime/Hypr-Arch/git ~/Hypr-Arch
+git clone --depth=1 https://github.com/tensei-slime/Hypr-Arch/git ~/Hypr-Arch
 cd Hypr-Arch 
 ```
 
