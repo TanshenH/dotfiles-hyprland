@@ -5,7 +5,7 @@ This is JakooLit's Hyprland with some minor changes made for my personal use.
 - *💌 Sorry for the slow development . It's my last year at school 2025~2026 and I also a bit busy. 😇*
 
 <p align="center">
-  <img src="https://github.com/tensei-slime/Hypr-Arch/blob/master/Pictures/example.png" width="1000"/>
+  <img src="https://github.com/tensei-slime/Hypr-Arch/blob/main/Pictures/example.png" width="1000"/>
 </p>
 
 ##
@@ -15,9 +15,9 @@ This is JakooLit's Hyprland with some minor changes made for my personal use.
      📷 Screenshots
   </summary>
 <p align="center">
-  <img align="center" src="https://github.com/tensei-slime/Hypr-Arch/blob/master/Screenshots/pic1.png" width="49%" />    <img align="center" src="https://github.com/tensei-slime/Hypr-Arch/blob/master/Screenshots/pic2.png" width="49%" />
-    <img align="center" src="https://github.com/tensei-slime/Hypr-Arch/blob/master/Screenshots/pic3.png" width="49%" />  <img align="center" src="https://github.com/tensei-slime/Hypr-Arch/blob/master/Screenshots/pic4.png" width="49%" /> <img align="center" src="https://github.com/tensei-slime/Hypr-Arch/blob/master/Screenshots/pic5.png" width="49%" />
-<img align="center" src="https://github.com/tensei-slime/Hypr-Arch/blob/master/Screenshots/pic6.png" width="49%" /> <img align="center" src="https://github.com/tensei-slime/Hypr-Arch/blob/master/Screenshots/pic7.png" width="49%" />
+  <img align="center" src="https://github.com/tensei-slime/Hypr-Arch/blob/main/Screenshots/pic1.png" width="49%" />    <img align="center" src="https://github.com/tensei-slime/Hypr-Arch/blob/main/Screenshots/pic2.png" width="49%" />
+    <img align="center" src="https://github.com/tensei-slime/Hypr-Arch/blob/main/Screenshots/pic3.png" width="49%" />  <img align="center" src="https://github.com/tensei-slime/Hypr-Arch/blob/main/Screenshots/pic4.png" width="49%" /> <img align="center" src="https://github.com/tensei-slime/Hypr-Arch/blob/main/Screenshots/pic5.png" width="49%" />
+<img align="center" src="https://github.com/tensei-slime/Hypr-Arch/blob/main/Screenshots/pic6.png" width="49%" /> <img align="center" src="https://github.com/tensei-slime/Hypr-Arch/blob/main/Screenshots/pic7.png" width="49%" />
   <img align="center" src="https://github.com/tensei-slime/Hypr-Arch/blob/master/Screenshots/pic8.png" width="49%" />
 </p>
   
