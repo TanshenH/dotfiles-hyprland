@@ -81,8 +81,8 @@ cd Hypr-Arch
 
 - Added support for mp4/video wallpapers ❤️
 
-  **Keybinds : WIN + SHIFT + W**
+- **Keybinds : WIN + SHIFT + W**
 
-  *link : <https://github.com/GhostNaN/mpvpaper>*
+ - *link : <https://github.com/GhostNaN/mpvpaper>*
 
 ###
