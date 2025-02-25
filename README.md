@@ -54,7 +54,7 @@ cd Hypr-Arch
 
 ## Changes
 
-1. Keybinds:
+### 1. Keybinds
 
  **[Win = Windows Key / Super Key]**
 
@@ -65,13 +65,24 @@ cd Hypr-Arch
 | Win + Q | Kill's Active Window |
 | Win + A | Launch Rofi-Wayland |
 | Win + W | Wallpaper Select |
+| Win + CTRL + W | Wallpaper Effects |
 | Win + Shift + W | Video Wallaper select |
-| Win + X | Launch Firefox |
+| Win + X | Launch Brave |
 | Win + C | Launch Neovim |
 | Win + E | Quick Edit Configs |
 | Win + K | Refresh Waybar |
 | Win + P | Launch Wlogout [Power Option Menu] |
 | Win + L | Lock Screen |
 | Win + N | Notification Panel |
-| Win + 1,2,3,4 | Moves to Workspace 1234... |
-| Win + Shift + 1,2,3,4 | Moves active Window to Workspace 1234... |
+| Win + 1,2,3,4 | Moves to Workspace 1,2,3,4, |
+| Win + Shift + 1,2,3,4 | Moves active Window to Workspace 1,2,3,4, |
+
+### 2. Video Wallpaper Support
+
+- Added support for mp4/video wallpapers ❤️
+
+  **Keybinds : WIN + SHIFT + W**
+
+  *link : <https://github.com/GhostNaN/mpvpaper>*
+
+###
