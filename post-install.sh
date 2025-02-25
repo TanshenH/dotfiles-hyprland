@@ -37,8 +37,8 @@ mv zsh/.zshrc /home/$USER/.zshrc
 # Check if yay is installed and install packages
 if command -v yay &>/dev/null; then
   echo "Installing Necessary packages..."
-  yay -S mpvpaper swaylock-effects-improved-git pywal
-  sudo pacman -S --noconfirm neovim firefox
+  yay -S mpvpaper swaylock-effects-improved-git pywal brave-bin
+  sudo pacman -S --noconfirm neovim
   clear
   git clone https://github.com/LazyVim/starter ~/.config/nvim
   echo "[-] Installation Finished! now please type 'nvim' and wait till everything is installed and write ':q' to quit !"
@@ -50,8 +50,8 @@ else
   cd ..
   clear
   echo "Installing Necessary packages..."
-  yay -S mpvpaper swaylock-effects-improved-git pywal
-  sudo pacman -S --noconfirm neovim firefox
+  yay -S mpvpaper swaylock-effects-improved-git pywal brave-bin
+  sudo pacman -S --noconfirm neovim
   clear
   git clone https://github.com/LazyVim/starter ~/.config/nvim
   echo "[-] Installation Finished! now please type 'nvim' and wait till everything is installed and write ':q' to quit ! "
