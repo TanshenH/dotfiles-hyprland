@@ -5,7 +5,7 @@ This is JakooLit's Hyprland with some minor changes made for my personal use.
 - *💌 Sorry for the slow development . It's my last year at school 2025~2026 and I also a bit busy. 😇*
 
 <p align="center">
-  <img src="https://github.com/tanxzen/Hypr-Arch/blob/main/Pictures/example.png" width="1000"/>
+  <img src="https://github.com/tanxzen/Hypr-Arch/blob/main/Pictures/example.png" width="1500"/>
 </p>
 
 ##
@@ -79,7 +79,7 @@ cd Hypr-Arch
 
 ### 2. Video Wallpaper Support
 
-- Added support for mp4/video wallpapers ❤️
+- Added support for mp4/video wallpapers using mpvpaper❤️
 
 - **Keybinds : WIN + SHIFT + W**
 
