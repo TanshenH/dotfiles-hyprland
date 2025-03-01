@@ -30,6 +30,13 @@ This is JakooLit's Hyprland with some minor changes made for my personal use.
 
 ### ⚠️ WARNING THIS SCRIPT IS FOR ARCH-DISTROS ONLY
 
+<p align="center" >
+  Installation Image From JaKooLit :
+  <img src="https://raw.githubusercontent.com/JaKooLit/Arch-Hyprland/main/Installer.png" width="1000" />
+</p>
+
+
+
 1. Clone this repo:
 
 ```bash
