@@ -3,13 +3,17 @@
 # Set the directory where your video wallpapers are located
 WALLPAPER_DIR="$HOME/Videos/wallpapers"
 
-# Use Rofi to select a wallpaper from the available video files in the directory
-SELECTED_WALLPAPER=$(ls "$WALLPAPER_DIR"/*.mp4 | rofi -dmenu -p "Select Video Wallpaper" -i)
+# Use find to list all video files, then use basename to strip the path and show only the filename
+SELECTED_WALLPAPER=$(find "$WALLPAPER_DIR" -type f -iname "*.mp4" |
+  sed 's|.*/||' | rofi -dmenu -p "Select Video Wallpaper" -i)
 
-# Check if a wallpaper was selected
+# If a wallpaper was selected, set it as wallpaper using mpvpaper
 if [[ -n "$SELECTED_WALLPAPER" ]]; then
-    # Play the selected wallpaper using mpvpaper
-    mpvpaper -o "loop" eDP-1 "$SELECTED_WALLPAPER"
+  # Find the full path of the selected video
+  VIDEO_PATH="$WALLPAPER_DIR/$SELECTED_WALLPAPER"
+
+  # Play the selected wallpaper using mpvpaper
+  mpvpaper -o "loop" eDP-1 "$VIDEO_PATH" --no-cuda
 else
-    echo "No wallpaper selected."
+  echo "No wallpaper selected."
 fi
