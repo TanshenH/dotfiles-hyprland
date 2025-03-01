@@ -83,6 +83,6 @@ cd Hypr-Arch
 
 - **Keybinds : WIN + SHIFT + W**
 
- - *link : <https://github.com/GhostNaN/mpvpaper>*
+- *link for mpvpaper : <https://github.com/GhostNaN/mpvpaper>*
 
 ###
