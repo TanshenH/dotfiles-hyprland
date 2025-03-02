@@ -19,6 +19,7 @@ This is JakooLit's Hyprland with some minor changes made for my personal use.
     <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic3.png" width="49%" />  <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic4.png" width="49%" /> <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic5.png" width="49%" />
 <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic6.png" width="49%" /> <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic7.png" width="49%" />
   <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic8.png" width="49%" />
+  <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic9.png" width="49%" />
 </p>
   
 </details>
@@ -34,8 +35,6 @@ This is JakooLit's Hyprland with some minor changes made for my personal use.
   Installation Image From JaKooLit :
   <img src="https://raw.githubusercontent.com/JaKooLit/Arch-Hyprland/main/Installer.png" width="1000" />
 </p>
-
-
 
 1. Clone this repo:
 
