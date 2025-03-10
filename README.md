@@ -82,7 +82,7 @@ cd Hypr-Arch
 
 - Added support for mp4/video wallpapers using mpvpaper❤️
 
-- Wallpaper location : **~/Videos/wallpapers**  *(add your mp4/video there)*
+- Wallpaper location : **~/Videos/wallpapers**  *(add your mp4/video here)*
 
 - **Keybinds : WIN + SHIFT + W**
 
