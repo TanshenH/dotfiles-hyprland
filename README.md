@@ -29,6 +29,11 @@ This is JakooLit's Hyprland with some minor changes made for my personal use.
 **⚠️ Please read the documentation first before installing**
   ***<https://github.com/JakooLit/Arch-Hyprland.git>***
 
+### Disclaimer : 
+<p align="center">
+I am not responsible for any damage done by install script, as it just a layer of configs applied to another config, things may change and not work !
+</p>
+
 ### ⚠️ WARNING THIS SCRIPT IS FOR ARCH-DISTROS ONLY
 
 1. Clone this repo:
@@ -83,9 +88,10 @@ cd Hypr-Arch
 - Added support for mp4/video wallpapers using mpvpaper❤️
 
 - Wallpaper location : **~/Videos/wallpapers**  *(add your mp4/video here)*
-
 - **Keybinds : WIN + SHIFT + W**
-
 - *link for mpvpaper : <https://github.com/GhostNaN/mpvpaper>*
 
-###
+
+## 👍👍👍 Thanks and Credits!
+- [`Jakoolit`](https://github.com/jakoolit/) Of course for his amazing configs.
+- [`Hyprland`](https://hyprland.org/) Of course to Hyprland and @vaxerski for this awesome Dynamic Tiling Manager.
