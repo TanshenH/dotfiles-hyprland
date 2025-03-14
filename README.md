@@ -12,7 +12,7 @@ This is JakooLit's Hyprland with some minor changes made for my personal use.
 
 <details>
   <summary>
-     📷 Screenshots
+     📷 Screenshots (click to view)
   </summary>
 <p align="center">
   <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic1.png" width="49%" />    <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic2.png" width="49%" />
@@ -31,7 +31,7 @@ This is JakooLit's Hyprland with some minor changes made for my personal use.
 **⚠️ Please read the documentation first before installing**
   ***<https://github.com/JakooLit/Arch-Hyprland.git>***
 
-### Disclaimer
+### Disclaimer : 
 
 <p align="center">
 I am not responsible for any damage done by install script, as it just a layer of configs applied to another config, things may change and not work !
