@@ -14,6 +14,10 @@ if pidof swww >/dev/null; then
   pkill swww
 fi
 
+if pidof mpv >/dev/null; then
+  pkill mpv
+fi
+
 if [[ -n "$SELECTED_WALLPAPER" ]]; then
   # Find the full path of the selected video
   VIDEO_PATH="$WALLPAPER_DIR/$SELECTED_WALLPAPER"
