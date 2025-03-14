@@ -8,6 +8,12 @@ SELECTED_WALLPAPER=$(find "$WALLPAPER_DIR" -type f -iname "*.mp4" |
   sed 's|.*/||' | rofi -dmenu -p "Select Video Wallpaper" -i)
 
 # If a wallpaper was selected, set it as wallpaper using mpvpaper
+
+#Kill swww for best experience
+if pidof swww >/dev/null; then
+  pkill swww
+fi
+
 if [[ -n "$SELECTED_WALLPAPER" ]]; then
   # Find the full path of the selected video
   VIDEO_PATH="$WALLPAPER_DIR/$SELECTED_WALLPAPER"
