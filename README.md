@@ -20,6 +20,8 @@ This is JakooLit's Hyprland with some minor changes made for my personal use.
 <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic6.png" width="49%" /> <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic7.png" width="49%" />
   <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic8.png" width="49%" />
   <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic9.png" width="49%" />
+    <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic10.png" width="49%" />  
+     <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic11.png" width="49%" />
 </p>
   
 </details>
@@ -29,7 +31,8 @@ This is JakooLit's Hyprland with some minor changes made for my personal use.
 **⚠️ Please read the documentation first before installing**
   ***<https://github.com/JakooLit/Arch-Hyprland.git>***
 
-### Disclaimer : 
+### Disclaimer
+
 <p align="center">
 I am not responsible for any damage done by install script, as it just a layer of configs applied to another config, things may change and not work !
 </p>
@@ -91,7 +94,7 @@ cd Hypr-Arch
 - **Keybinds : WIN + SHIFT + W**
 - *link for mpvpaper : <https://github.com/GhostNaN/mpvpaper>*
 
+## 👍👍👍 Thanks and Credits
 
-## 👍👍👍 Thanks and Credits!
 - [`Jakoolit`](https://github.com/jakoolit/) Of course for his amazing configs.
 - [`Hyprland`](https://hyprland.org/) Of course to Hyprland and @vaxerski for this awesome Dynamic Tiling Manager.
