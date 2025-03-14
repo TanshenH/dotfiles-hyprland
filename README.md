@@ -5,7 +5,7 @@ This is JakooLit's Hyprland with some minor changes made for my personal use.
 - *💌 Sorry for the slow development . It's my last year at school 2025~2026 and I also a bit busy. 😇*
 
 <p align="center">
-  <img src="https://github.com/tanxzen/Hypr-Arch/blob/main/Pictures/example.png" width="1500"/>
+  <img src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/example.png" width="1500"/>
 </p>
 
 ##
