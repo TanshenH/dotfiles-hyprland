@@ -1,4 +1,4 @@
-## 🤍 Hypr-Arch [`Credit : Jakoolit`](https:github.com/jakoolit) 
+## 🤍 Hypr-Arch [`Credit : Jakoolit`](https://github.com/jakoolit/) 
 
 
 This is JakooLit's Hyprland with some minor changes made for my personal use.
