@@ -1,8 +1,9 @@
-## 🤍 Hypr-Arch <a href="https://github.com/JaKooLit">**[Credit: JaKooLit]**</a>
+## 🤍 Hypr-Arch [`Credit : Jakoolit`](https:github.com/jakoolit) 
+
 
 This is JakooLit's Hyprland with some minor changes made for my personal use.
 
-- *💌 Sorry for the slow development . It's my last year at school 2025~2026 and I also a bit busy. 😇*
+- *💌 Sorry for the slow development . It's my last year at school 2025~2026 and I am also a bit busy. 😇*
 
 <p align="center">
   <img src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/example.png" width="1500"/>
@@ -12,7 +13,7 @@ This is JakooLit's Hyprland with some minor changes made for my personal use.
 
 <details>
   <summary>
-     📷 Screenshots (click to view)
+     📷 Screenshots
   </summary>
 <p align="center">
   <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic1.png" width="49%" />    <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic2.png" width="49%" />
