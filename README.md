@@ -22,7 +22,7 @@ This is JakooLit's Hyprland with some minor changes made for my personal use.
   <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic8.png" width="49%" />
   <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic9.png" width="49%" />
     <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic10.png" width="49%" />  
-     <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic11.png" width="49%" />
+     <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic11.png" width="49%" /> <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic12.png" width="49%" />
 </p>
   
 </details>
