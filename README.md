@@ -84,8 +84,8 @@ cd Hypr-Arch
 | Win + P | Launch Wlogout [Power Option Menu] |
 | Win + L | Lock Screen |
 | Win + N | Notification Panel |
-| Win + 1,2,3,4 | Moves to Workspace 1,2,3,4, |
-| Win + Shift + 1,2,3,4 | Moves active Window to Workspace 1,2,3,4, |
+| Win + 1...9 | Moves to Workspace 1...9 |
+| Win + Shift + 1...9 | Moves active Window to Workspace 1...9 |
 
 ### 2. Video Wallpaper Support
 
