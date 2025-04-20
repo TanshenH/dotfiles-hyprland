@@ -22,10 +22,10 @@
 "ipc": true,
 "margin-top": 5,
 //"margin-bottom": 5,
-"width": 1444,
+"width": 1334,
 	
 "modules-left": [
-	"hyprland/workspaces#roman", 
+	"hyprland/workspaces", 
 	"mpris", 
 	"custom/swaync", 
 	"tray"
@@ -40,7 +40,7 @@
 	"custom/separator#blank",
 	"pulseaudio",
 	"custom/separator#blank",
-	"temperature",
+	//"temperature",
 	"custom/separator#blank",	
 	"network"],
 
