@@ -52,3 +52,7 @@ ZSH_HIGHLIGHT_STYLES[arg0]='fg=#87CEEB' # Sky blue
 ZSH_HIGHLIGHT_STYLES[reserved-word]='fg=#87CEEB' # Sky blue
 ZSH_HIGHLIGHT_STYLES[builtin]='fg=#87CEEB' # Sky blue
 
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
