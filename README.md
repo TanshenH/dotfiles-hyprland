@@ -1,9 +1,6 @@
-## 🤍 Hypr-Arch [`Credit : Jakoolit`](https://github.com/jakoolit/) 
+## 🤍 Hyprland dotfiles [`Credit : Jakoolit`](https://github.com/jakoolit/) 
 
-
-This is JakooLit's Hyprland with some minor changes made for my personal use.
-
-- *💌 Sorry for the slow development . It's my last year at school 2025~2026 and I am also a bit busy. 😇*
+This is JakooLit's Hyprland dotfiles with some minor changes made for my personal use.
 
 <p align="center">
   <img src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/example.png" width="1500"/>
@@ -87,13 +84,6 @@ cd Hypr-Arch
 | Win + 1...9 | Moves to Workspace 1...9 |
 | Win + Shift + 1...9 | Moves active Window to Workspace 1...9 |
 
-### 2. Video Wallpaper Support
-
-- Added support for mp4/video wallpapers using mpvpaper❤️
-
-- Wallpaper location : **~/Videos/wallpapers**  *(add your mp4/video here)*
-- **Keybinds : WIN + SHIFT + W**
-- *link for mpvpaper : <https://github.com/GhostNaN/mpvpaper>*
 
 ## 👍👍👍 Thanks and Credits
 
