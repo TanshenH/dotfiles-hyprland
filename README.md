@@ -22,7 +22,7 @@
 </details>
 
 
-### Script for **arch distros** for automated copying :
+### Automated Scripts for copying and installing configs for **| Arch Distros |** :
 ```bash
 git clone --depth=1 https://github.com/tanxzen/dotfiles.git ~/ && cd ~/dotfiles
 ./base-install.sh
