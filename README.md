@@ -2,14 +2,8 @@
 <p align="center">
   
   <img src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/example.png" width="1000" />
-  
-  ***This is JakooLit's Hyprland dotfiles with some minor changes made for my personal use.***
-  
-</p>
 
-##
-
-<details>
+  <details>
   <summary>
      📷 More Screenshots
   </summary>
@@ -20,7 +14,12 @@
 </p>
   
 </details>
+  
+  ***This is JakooLit's Hyprland dotfiles with some changes made for my personal use.***
+  
+</p>
 
+##
 
 ### Automated Scripts for copying and installing configs for **| Arch Distros |** :
 ```bash
