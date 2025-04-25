@@ -1,4 +1,4 @@
-## Hyprland dotfiles
+### Hyprland dotfiles
 
 This is JakooLit's Hyprland dotfiles with some minor changes made for my personal use.
 
@@ -39,24 +39,24 @@ git clone --depth=1 https://github.com/tanxzen/dotfiles.git ~/ && cd ~/dotfiles
 
 `Super` = `Windows Key`
  
-| KeyBinds | Description |
+| `KeyBinds` | `Description` |
 | --- | --- |
-| Win + H | Launch Keybinds Hint |
-| Win + Enter | Launch Kitty (Default Terminal) |
-| Win + Q | Kill's Active Window |
-| Win + A | Launch Rofi-Wayland |
-| Win + W | Wallpaper Select |
-| Win + CTRL + W | Wallpaper Effects |
-| Win + Shift + W | Video Wallaper select |
-| Win + X | Launch Brave |
-| Win + C | Launch Neovim |
-| Win + E | Quick Edit Configs |
-| Win + K | Refresh Waybar |
-| Win + P | Launch Wlogout [Power Option Menu] |
-| Win + L | Lock Screen |
-| Win + N | Notification Panel |
-| Win + 1...9 | Moves to Workspace 1...9 |
-| Win + Shift + 1...9 | Moves active Window to Workspace 1...9 |
+| `Super` + `H` | `Launch Keybinds Hint` |
+| `Super` + `Enter` | `Launch Kitty (Default Terminal)` |
+| `Super` + `Q` | `Close Active Window` |
+| `Super` + `A` | `Launch Rofi-Wayland` |
+| `Super` + `W ` | `Wallpaper Select` |
+| `Super` + `CTRL` + `W` | `Wallpaper Effects` |
+| `Super` + `Shift` + `W` | `Video Wallaper select` |
+| `Super` + `X` | `Launch Brave` |
+| `Super` + `C` | `Launch Neovim` |
+| `Super` + `E` | `Quick Edit Configs` |
+| `Super` + `K` | `Refresh Waybar` |
+| `Super` + `P` | `Launch Wlogout [Power Option Menu]` |
+| `Super` + `L` | `Lock Screen` |
+| `Super` + `N` | `Notification Panel` |
+| `Super` + `1...9` | `Moves to Workspace 1...9` |
+| `Super` + `Shift` + `1...9` | `Moves active Window to Workspace 1...9` |
 
 
 ## 👍👍👍 Thanks and Credits
