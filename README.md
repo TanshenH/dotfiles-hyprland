@@ -13,13 +13,9 @@ This is JakooLit's Hyprland dotfiles with some minor changes made for my persona
      📷 Screenshots
   </summary>
 <p align="center">
-  <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic1.png" width="49%" />    <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic2.png" width="49%" />
-    <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic3.png" width="49%" />  <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic4.png" width="49%" /> <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic5.png" width="49%" />
-<img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic6.png" width="49%" /> <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic7.png" width="49%" />
-  <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic8.png" width="49%" />
-  <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic9.png" width="49%" />
-    <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic10.png" width="49%" />  
-     <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic11.png" width="49%" /> <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic12.png" width="49%" />
+   <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic1.png" width="49%" />    <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic2.png" width="49%" />
+   <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic3.png" width="49%" />    <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic4.png" width="49%" />
+   <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic5.png" width="49%" />    <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic6.png" width="49%" />
 </p>
   
 </details>
