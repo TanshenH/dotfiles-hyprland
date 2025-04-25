@@ -11,7 +11,7 @@
 
 <details>
   <summary>
-     📷 Screenshots
+     📷 More Screenshots
   </summary>
 <p align="center">
    <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic1.png" width="49%" />    <img align="center" src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/pic2.png" width="49%" />
