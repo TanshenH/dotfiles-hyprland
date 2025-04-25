@@ -62,4 +62,3 @@ git clone --depth=1 https://github.com/tanxzen/dotfiles.git ~/ && cd ~/dotfiles
 ## 👍👍👍 Thanks and Credits
 
 - [`Jakoolit`](https://github.com/jakoolit/) Of course for his amazing configs.
-- [`Hyprland`](https://hyprland.org/) Of course to Hyprland and @vaxerski for this awesome Dynamic Tiling Manager.
