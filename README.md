@@ -1,9 +1,9 @@
-## 🤍 Hyprland dotfiles [`Credit : Jakoolit`](https://github.com/jakoolit/) 
+## Hyprland dotfiles
 
 This is JakooLit's Hyprland dotfiles with some minor changes made for my personal use.
 
 <p align="center">
-  <img src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/example.png" width="1500"/>
+  <img src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/example.png" width="1000" height="500" />
 </p>
 
 ##
@@ -24,47 +24,21 @@ This is JakooLit's Hyprland dotfiles with some minor changes made for my persona
   
 </details>
 
-# 🛠️ Installation
 
-**⚠️ Please read the documentation first before installing**
-  ***<https://github.com/JakooLit/Arch-Hyprland.git>***
-
-### Disclaimer : 
-
-<p align="center">
-I am not responsible for any damage done by install script, as it just a layer of configs applied to another config, things may change and not work !
-</p>
-
-### ⚠️ WARNING THIS SCRIPT IS FOR ARCH-DISTROS ONLY
-
-1. Clone this repo:
-
+### Script for **arch distros** for automated copying :
 ```bash
-git clone --depth=1 https://github.com/tensei-slime/Hypr-Arch/git ~/Hypr-Arch
-cd Hypr-Arch 
-```
-
-2. Base Install: [this install JaKooLit 's Hyprland]
-
-```bash
+git clone https://github.com/tanxzen/dotfiles.git ~/ && cd ~/dotfiles
 ./base-install.sh
-```
-
-> [!NOTE]
-> Recommended to Reboot After base install 😇
-
-3. Post-Install: [this install's my setup]
-
-```bash
+# execute the post install after base install 
 ./post-install.sh
+
+
 ```
 
-## Changes
+### Major Changes in Keybinds
 
-### 1. Keybinds
-
- **[Win = Windows Key / Super Key]**
-
+`Super` = `Windows Key`
+ 
 | KeyBinds | Description |
 | --- | --- |
 | Win + H | Launch Keybinds Hint |
