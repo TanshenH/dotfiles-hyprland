@@ -1,7 +1,7 @@
 
 <p align="center">
   
-  <img src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/example.png" width="1000" height="500" />
+  <img src="https://github.com/tanxzen/Hypr-Arch/blob/main/Screenshots/example.png" width="1000" />
   
   ***This is JakooLit's Hyprland dotfiles with some minor changes made for my personal use.***
   
