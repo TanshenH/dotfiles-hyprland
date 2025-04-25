@@ -27,7 +27,7 @@ This is JakooLit's Hyprland dotfiles with some minor changes made for my persona
 
 ### Script for **arch distros** for automated copying :
 ```bash
-git clone https://github.com/tanxzen/dotfiles.git ~/ && cd ~/dotfiles
+git clone --depth=1 https://github.com/tanxzen/dotfiles.git ~/ && cd ~/dotfiles
 ./base-install.sh
 # execute the post install after base install 
 ./post-install.sh
