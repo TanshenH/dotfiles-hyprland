@@ -95,7 +95,7 @@ main() {
   if [[ $pic_index -ne -1 ]]; then
     swww img -o "$focused_monitor" "${PICS[$pic_index]}" $SWWW_PARAMS
     # Set the color scheme using wal
-    wal -i "${PICS[$pic_index]}"
+    wal -i "${PICS[$pic_index]}" -e
   else
     echo "Image not found."
     exit 1

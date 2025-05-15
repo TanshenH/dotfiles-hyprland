@@ -17,6 +17,10 @@ plugins=(
 # Source Oh My Zsh configuration
 source $ZSH/oh-my-zsh.sh
 
+#For automatic theme changing using pywal
+# Pywal color scheme
+[[ -f "${HOME}/.cache/wal/colors.zsh" ]] && source "${HOME}/.cache/wal/colors.zsh"
+
 # Display Pokemon-colorscripts
 # Project page: https://gitlab.com/phoneybadger/pokemon-colorscripts#on-other-distros-and-macos
 pokemon-colorscripts --no-title -s -r
@@ -39,17 +43,11 @@ setopt appendhistory
 # Customizing zsh-syntax-highlighting colors
 typeset -A ZSH_HIGHLIGHT_STYLES
 
-# Commands and options should be sky blue
-ZSH_HIGHLIGHT_STYLES[command]='fg=#87CEEB' # Sky blue
-ZSH_HIGHLIGHT_STYLES[option]='fg=#87CEEB' # Sky blue
-
-# Incomplete or erroneous commands should be light blue
-ZSH_HIGHLIGHT_STYLES[unknown-token]='fg=#ADD8E6' # Light blue
-
-# You can also change the highlighting for other elements if needed
-# For example, make arguments sky blue as well
-ZSH_HIGHLIGHT_STYLES[arg0]='fg=#87CEEB' # Sky blue
-ZSH_HIGHLIGHT_STYLES[reserved-word]='fg=#87CEEB' # Sky blue
-ZSH_HIGHLIGHT_STYLES[builtin]='fg=#87CEEB' # Sky blue
+ZSH_HIGHLIGHT_STYLES[command]="fg=$color4"
+ZSH_HIGHLIGHT_STYLES[option]="fg=$color4"
+ZSH_HIGHLIGHT_STYLES[unknown-token]="fg=$color3"
+ZSH_HIGHLIGHT_STYLES[arg0]="fg=$color5"
+ZSH_HIGHLIGHT_STYLES[reserved-word]="fg=$color3"
+ZSH_HIGHLIGHT_STYLES[builtin]="fg=$color3"
 
 

@@ -1,3 +1,4 @@
 #!/bin/bash
 
-swaylock --screenshots --effect-blur 10x10
+hyprlock
+#swaylock --screenshots --effect-blur 10x10
