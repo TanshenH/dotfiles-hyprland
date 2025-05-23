@@ -36,8 +36,11 @@
 		"battery",
 		"custom/arrow2",
 		"tray",
-		"custom/arrow1",
-		"clock#2"
+		"custom/arrow1" 
 	],
+
+  "modules-center": [
+  "clock#2"
+  ]
 }
 

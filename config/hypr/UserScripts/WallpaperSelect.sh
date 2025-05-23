@@ -74,7 +74,7 @@ main() {
   if [[ "$choice" == "$RANDOM_PIC_NAME" ]]; then
     swww img -o "$focused_monitor" "$RANDOM_PIC" $SWWW_PARAMS
     # Set the color scheme using wal
-    wal -i "$RANDOM_PIC"
+    wallust run "$RANDOM_PIC"
     sleep 1.5
     "$SCRIPTSDIR/WallustSwww.sh"
     sleep 0.5
@@ -95,7 +95,7 @@ main() {
   if [[ $pic_index -ne -1 ]]; then
     swww img -o "$focused_monitor" "${PICS[$pic_index]}" $SWWW_PARAMS
     # Set the color scheme using wal
-    wal -i "${PICS[$pic_index]}" -e
+    wallust run "${PICS[$pic_index]}" -e
   else
     echo "Image not found."
     exit 1
