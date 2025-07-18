@@ -1,3 +1,8 @@
+<div align="center">
+  
+  <h3>⚠️ NOTE, This config has been put archive due to unexpected compatibility issue with hyprland.</h3>
+
+</div>
 
 <p align="center">
   
